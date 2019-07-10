@@ -17,4 +17,3 @@ Lesson OOP
 
 mastermind - implementation of a command line based mastermind game
 tic_tac_toe - implementation of a command line based tic-tac-toe game
-
